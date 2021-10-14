@@ -11,7 +11,7 @@ My name is RedFantom, which is, of course, a pseudonym.
 
 - :snake: Particularly I enjoy Python, C and Kotlin, but I'm always dabbling in 
   different stuff. 
-- :camera: When not coding, I enjoy photography.
+- :camera: When not coding, I enjoy film photography.
 - :mailbox: Drop me an e-mail on the address listed in my profile. I am always interested in new projects and ideas, as well as any questions regarding the projects I contribute to.
 
 <!--
