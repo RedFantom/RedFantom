@@ -3,7 +3,7 @@
 ### Hey! :wave:
 
 My name is RedFantom, which is, of course, a pseudonym.
-- :telescope: I'm currently working on getting a Master's degree in Electrical Engineering, but in my spare time I like to write code for all sorts of projects.
+- :telescope: Currently I'm working as an Analog IC Researcher, but in my spare time I like to write code for all sorts of projects.
 - :coffee: Coffee is the foundation upon which all my code is built.
 - :penguin: Permanent Linux user on desktop, laptop and VPS.
 
